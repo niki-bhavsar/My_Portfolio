@@ -38,6 +38,10 @@
     cursor: hand;
 }
 
+.slick-prev .slick-arrow{
+    z-index: 1;
+}
+
 .slick-slider .slick-track,
 .slick-slider .slick-list
 {

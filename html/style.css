@@ -874,6 +874,7 @@ header.header.sticky {
     left: 0;
     opacity: 0.2;
     padding: 0;
+    z-index: 1;
 }
 .portfolio-section .portfolio-content-wrapper .slick-arrow:hover {
     background: #f43534;
